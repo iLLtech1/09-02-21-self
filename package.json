@@ -1,0 +1,20 @@
+{
+  "name": "09-02-21-self",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLLtech1/09-02-21-self.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLLtech1/09-02-21-self/issues"
+  },
+  "homepage": "https://github.com/iLLtech1/09-02-21-self#readme"
+}
